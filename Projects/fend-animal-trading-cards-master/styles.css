@@ -1,0 +1,41 @@
+.body-style {
+  border: 1px solid #D3D3D3;
+  box-shadow: 10px 10px 5px #D3D3D3;
+  padding: 0 10px 10px 20px;
+  margin: 50px 515px;
+  max-width: 300px; /* card stays the same even if browser window is expanded */
+  min-width: 300px; /* card stays the same even if browser window is made smaller */
+}
+
+.cat-heading {
+  font-size: 32px;
+}
+
+#cat-image {
+  width: 300px; /* to make sure that the image is 300 pixels wide */
+}
+
+.text-div {
+  border: 1px solid #D3D3D3;
+  padding: 10px 20px;
+  margin: 20px 10px 20px 3px;
+}
+
+.interesting-fact {
+  font-style: italic;
+}
+
+span {
+  font-weight: bold;
+}
+
+ul{
+  padding: 0; /*aligning list elements to the left*/
+}
+
+li {
+  list-style-type: none;
+}
+
+
+
