@@ -1,7 +1,7 @@
 .body-style {
-  border: 1px solid #D3D3D3;
-  box-shadow: 10px 10px 5px #D3D3D3;
-  padding: 0 10px 10px 20px;
+  border: 1px solid #d3d3d3;
+  box-shadow: 10px 10px 5px #d3d3d3;
+  padding: 0 20px 10px 20px;
   margin: 50px 515px;
   max-width: 300px; /* card stays the same even if browser window is expanded */
   min-width: 300px; /* card stays the same even if browser window is made smaller */
@@ -16,9 +16,9 @@
 }
 
 .text-div {
-  border: 1px solid #D3D3D3;
+  border: 1px solid #d3d3d3;
   padding: 10px 20px;
-  margin: 20px 10px 20px 3px;
+  margin: 20px 3px;
 }
 
 .interesting-fact {
